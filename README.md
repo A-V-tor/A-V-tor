@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Artem</a> 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-V-tor)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-V-tor&show_icons=true&theme=merko)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-V-tor&layout=compact)
 
 
 <!--
