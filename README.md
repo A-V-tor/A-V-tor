@@ -1,6 +1,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-V-tor&show_icons=true)
-</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-V-tor&layout=compact)
 
 ![codewars](https://www.codewars.com/users/artem48/badges/large)
