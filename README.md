@@ -1,7 +1,7 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-V-tor&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-V-tor&show_icons=true&theme=cobalt)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-V-tor&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-V-tor&layout=compact&theme=cobalt)
 
 
 <!--
