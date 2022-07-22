@@ -2,7 +2,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-V-tor&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-V-tor&layout=compact)
 
-![codewars](https://www.codewars.com/users/artem48/badges/large)
 
 <!--
 **A-V-tor/A-V-tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
