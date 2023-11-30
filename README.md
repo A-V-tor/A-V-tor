@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/artem-torshin-353817245/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="avtorca4@gmail.com">
+  <a href="mailto:avtorca4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://t.me/Artem4_8">
