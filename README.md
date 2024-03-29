@@ -1,4 +1,11 @@
+[![Github](https://img.shields.io/github/followers/A-V-tor?label=Follow&style=social)](https://github.com/A-V-tor)
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-V-tor&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-V-tory&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-V-tor&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-V-tor&theme=github)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-V-tor&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-V-tor&layout=compact)
 
@@ -32,4 +39,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
